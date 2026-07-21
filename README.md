@@ -1,4 +1,4 @@
-Official complete update logs and technical breakdowns for my Roblox dorky dodgeball game.
+Official complete update logs and technical breakdowns for my dorky dodgeball roblox game.
 
 ### Update logs
 * [0.3.0](./logs/0.3.0.md)
