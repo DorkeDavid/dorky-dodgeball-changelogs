@@ -1,4 +1,3 @@
-# dorky dodgeball changelogs
 Official complete update logs and technical breakdowns for my Roblox dorky dodgeball game.
 
 ### Update logs
