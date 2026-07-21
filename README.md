@@ -9,5 +9,5 @@ Official complete update logs and technical breakdowns for my dorky dodgeball ro
 * [0.3.0](./for-nerds/0.3.0.md)
 
 ### Links
-* [Play on Roblox](YOUR_ROBLOX_LINK_HERE)
-* [Join our Discord](YOUR_DISCORD_LINK_HERE)
+* [Play on Roblox](https://www.roblox.com/games/18671717798/dorky-dodgeball)
+* [Join the Discord](YOUR_DISCORD_LINK_HERE)
